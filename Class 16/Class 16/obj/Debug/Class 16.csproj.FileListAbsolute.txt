@@ -1,0 +1,6 @@
+C:\Users\Placer\Desktop\Microsoft Projects\Class 16\Class 16\bin\Debug\Class 16.exe.config
+C:\Users\Placer\Desktop\Microsoft Projects\Class 16\Class 16\bin\Debug\Class 16.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 16\Class 16\bin\Debug\Class 16.pdb
+C:\Users\Placer\Desktop\Microsoft Projects\Class 16\Class 16\obj\Debug\Class 16.csprojResolveAssemblyReference.cache
+C:\Users\Placer\Desktop\Microsoft Projects\Class 16\Class 16\obj\Debug\Class 16.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 16\Class 16\obj\Debug\Class 16.pdb

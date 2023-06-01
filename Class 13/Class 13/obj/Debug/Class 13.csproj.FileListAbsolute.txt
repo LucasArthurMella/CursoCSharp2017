@@ -1,0 +1,6 @@
+C:\Users\Placer\Desktop\Microsoft Projects\Class 13\Class 13\bin\Debug\Class 13.exe.config
+C:\Users\Placer\Desktop\Microsoft Projects\Class 13\Class 13\bin\Debug\Class 13.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 13\Class 13\bin\Debug\Class 13.pdb
+C:\Users\Placer\Desktop\Microsoft Projects\Class 13\Class 13\obj\Debug\Class 13.csprojResolveAssemblyReference.cache
+C:\Users\Placer\Desktop\Microsoft Projects\Class 13\Class 13\obj\Debug\Class 13.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 13\Class 13\obj\Debug\Class 13.pdb

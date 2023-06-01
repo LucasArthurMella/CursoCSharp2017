@@ -1,0 +1,14 @@
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\bin\Debug\Class 23.02.exe.config
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\bin\Debug\Class 23.02.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\bin\Debug\Class 23.02.pdb
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\obj\Debug\Class 23.02.csprojResolveAssemblyReference.cache
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\obj\Debug\MainWindow.g.cs
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\obj\Debug\App.g.cs
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\obj\Debug\Class 23.02_MarkupCompile.cache
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\obj\Debug\Class 23.02_MarkupCompile.lref
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\obj\Debug\MainWindow.baml
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\obj\Debug\Class 23.02.g.resources
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\obj\Debug\Class_23._02.Properties.Resources.resources
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\obj\Debug\Class 23.02.csproj.GenerateResource.Cache
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\obj\Debug\Class 23.02.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 23.02\Class 23.02\obj\Debug\Class 23.02.pdb

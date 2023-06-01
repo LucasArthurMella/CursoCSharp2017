@@ -1,0 +1,12 @@
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\Placer\Desktop\Microsoft Projects\Class 10AfterBeFPRE\Before\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\Placer\Desktop\Microsoft Projects\Class 10AfterBeFPRE\Before\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 10AfterBeFPRE\Before\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\Placer\Desktop\Microsoft Projects\Class 10AfterBeFPRE\Before\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\Placer\Desktop\Microsoft Projects\Class 10AfterBeFPRE\Before\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 10AfterBeFPRE\Before\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb

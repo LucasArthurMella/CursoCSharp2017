@@ -1,0 +1,6 @@
+c:\users\placer\documents\visual studio 2017\Projects\Class 9\Class 9\bin\Debug\Class 9.exe.config
+c:\users\placer\documents\visual studio 2017\Projects\Class 9\Class 9\bin\Debug\Class 9.exe
+c:\users\placer\documents\visual studio 2017\Projects\Class 9\Class 9\bin\Debug\Class 9.pdb
+c:\users\placer\documents\visual studio 2017\Projects\Class 9\Class 9\obj\Debug\Class 9.csprojResolveAssemblyReference.cache
+c:\users\placer\documents\visual studio 2017\Projects\Class 9\Class 9\obj\Debug\Class 9.exe
+c:\users\placer\documents\visual studio 2017\Projects\Class 9\Class 9\obj\Debug\Class 9.pdb

@@ -1,0 +1,13 @@
+C:\Users\Placer\Desktop\Microsoft Projects\Class 15\Class 15\bin\Debug\Class 15.exe.config
+C:\Users\Placer\Desktop\Microsoft Projects\Class 15\Class 15\bin\Debug\Class 15.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 15\Class 15\bin\Debug\Class 15.pdb
+C:\Users\Placer\Desktop\Microsoft Projects\Class 15\Class 15\obj\Debug\Class 15.csprojResolveAssemblyReference.cache
+C:\Users\Placer\Desktop\Microsoft Projects\Class 15\Class 15\obj\Debug\Class 15.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 15\Class 15\obj\Debug\Class 15.pdb
+E:\backup 10 meses yeah\Disco Local P\Microsoft Projects\Class 15\Class 15\obj\Debug\Class 15.csproj.AssemblyReference.cache
+E:\backup 10 meses yeah\Disco Local P\Microsoft Projects\Class 15\Class 15\obj\Debug\Class 15.csproj.CoreCompileInputs.cache
+E:\backup 10 meses yeah\Disco Local P\Microsoft Projects\Class 15\Class 15\obj\Debug\Class 15.exe
+E:\backup 10 meses yeah\Disco Local P\Microsoft Projects\Class 15\Class 15\obj\Debug\Class 15.pdb
+E:\backup 10 meses yeah\Disco Local P\Microsoft Projects\Class 15\Class 15\bin\Debug\Class 15.exe.config
+E:\backup 10 meses yeah\Disco Local P\Microsoft Projects\Class 15\Class 15\bin\Debug\Class 15.exe
+E:\backup 10 meses yeah\Disco Local P\Microsoft Projects\Class 15\Class 15\bin\Debug\Class 15.pdb

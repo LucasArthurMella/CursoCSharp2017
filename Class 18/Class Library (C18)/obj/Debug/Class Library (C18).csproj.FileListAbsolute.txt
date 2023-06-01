@@ -1,0 +1,5 @@
+C:\Users\Placer\Desktop\Microsoft Projects\Class 18\Class Library (C18)\bin\Debug\Class Library (C18).dll
+C:\Users\Placer\Desktop\Microsoft Projects\Class 18\Class Library (C18)\bin\Debug\Class Library (C18).pdb
+C:\Users\Placer\Desktop\Microsoft Projects\Class 18\Class Library (C18)\obj\Debug\Class Library (C18).csprojResolveAssemblyReference.cache
+C:\Users\Placer\Desktop\Microsoft Projects\Class 18\Class Library (C18)\obj\Debug\Class Library (C18).dll
+C:\Users\Placer\Desktop\Microsoft Projects\Class 18\Class Library (C18)\obj\Debug\Class Library (C18).pdb

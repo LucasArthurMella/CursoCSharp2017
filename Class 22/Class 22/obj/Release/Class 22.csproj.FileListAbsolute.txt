@@ -1,0 +1,5 @@
+C:\Users\Placer\Desktop\Microsoft Projects\Class 22\Class 22\bin\Release\Class 22.exe.config
+C:\Users\Placer\Desktop\Microsoft Projects\Class 22\Class 22\bin\Release\Class 22.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 22\Class 22\bin\Release\Class 22.pdb
+C:\Users\Placer\Desktop\Microsoft Projects\Class 22\Class 22\obj\Release\Class 22.exe
+C:\Users\Placer\Desktop\Microsoft Projects\Class 22\Class 22\obj\Release\Class 22.pdb

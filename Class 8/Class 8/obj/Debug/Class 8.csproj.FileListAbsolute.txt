@@ -1,0 +1,6 @@
+c:\users\placer\documents\visual studio 2017\Projects\Class 8\Class 8\bin\Debug\Class 8.exe.config
+c:\users\placer\documents\visual studio 2017\Projects\Class 8\Class 8\bin\Debug\Class 8.exe
+c:\users\placer\documents\visual studio 2017\Projects\Class 8\Class 8\bin\Debug\Class 8.pdb
+c:\users\placer\documents\visual studio 2017\Projects\Class 8\Class 8\obj\Debug\Class 8.csprojResolveAssemblyReference.cache
+c:\users\placer\documents\visual studio 2017\Projects\Class 8\Class 8\obj\Debug\Class 8.exe
+c:\users\placer\documents\visual studio 2017\Projects\Class 8\Class 8\obj\Debug\Class 8.pdb
